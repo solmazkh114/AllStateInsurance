@@ -1,0 +1,6 @@
+* ignore Data folder
+Data/
+
+/kaggle.json
+
+/Kaggle code.ipynb
